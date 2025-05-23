@@ -39,6 +39,11 @@ settings.tk-desktop.project:
     tk-multi-launchmotionbuilder: "@settings.tk-multi-launchapp.motionbuilder"
     tk-multi-publish2: "@settings.tk-multi-publish2.standalone"
     tk-multi-screeningroom: "@settings.tk-multi-screeningroom.rv"
+    tk-iomanager:
+      location: 
+        type: git
+        path: git@github.com:ssoonnwwoo/tk-io-manager.git
+        version: v1.0.0
   groups:
   - matches:
     - "*Fla*"
