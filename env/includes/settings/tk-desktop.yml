@@ -42,12 +42,12 @@ settings.tk-desktop.project:
     tk-iomanager:
       location: 
         type: git
-        path: git@github.com:ssoonnwwoo/tk-io-manager.git
+        path: https://github.com/ssoonnwwoo/tk-io-manager.git
         version: v1.0.0
-    tk-multi-starterapp:
-      location:
-        type: dev
-        path: /home/rapa/shared_storage/custom_tk_apps/tk-multi-starterapp
+    # tk-multi-starterapp:
+    #   location:
+    #     type: dev
+    #     path: /home/rapa/shared_storage/custom_tk_apps/tk-iomanager
   groups:
   - matches:
     - "*Fla*"

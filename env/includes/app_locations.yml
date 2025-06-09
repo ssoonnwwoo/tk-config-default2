@@ -31,7 +31,7 @@ apps.tk-multi-breakdown.location:
 apps.tk-multi-breakdown2.location:
   type: app_store
   name: tk-multi-breakdown2
-  version: v0.4.3
+  version: v0.4.4
 apps.tk-multi-data-validation.location:
   type: app_store
   name: tk-multi-data-validation
@@ -39,7 +39,7 @@ apps.tk-multi-data-validation.location:
 apps.tk-multi-demo.location:
   type: app_store
   name: tk-multi-demo
-  version: v1.5.3-beta.4
+  version: v1.5.2
 apps.tk-multi-launchapp.location:
   type: app_store
   name: tk-multi-launchapp
@@ -83,7 +83,7 @@ apps.tk-multi-snapshot.location:
 apps.tk-multi-workfiles2.location:
   type: app_store
   name: tk-multi-workfiles2
-  version: v0.15.5
+  version: v0.15.7
 apps.tk-multi-devutils.location:
   type: app_store
   name: tk-multi-devutils
@@ -111,7 +111,7 @@ apps.tk-shotgun-launchvredreview.location:
 apps.tk-hiero-export.location:
   type: app_store
   name: tk-hiero-export
-  version: v0.8.0
+  version: v0.8.3
 apps.tk-hiero-openinshotgun.location:
   type: app_store
   name: tk-hiero-openinshotgun
